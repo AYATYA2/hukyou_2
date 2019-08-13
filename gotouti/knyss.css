@@ -1,0 +1,12 @@
+article{display:grid;
+        grid-template-areas:"a" "b" "c" "d" "e";}
+.hokkaidou{display: block;grid-area:"a";}
+.touhoku{display: block;grid-area: "b";}
+.kanntou{display: block;grid-area: "c";}
+.kannsai{display: block;grid-area: "d";}
+.kyuusyuu{display: block;grid-area: "e";}
+.hokkaidou img{float: left;}
+.touhoku img{float: left;}
+.kanntou img{float: left;}
+.kannsai img{float: left;}
+.kyuusyuu img{float: left;}

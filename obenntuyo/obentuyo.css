@@ -1,0 +1,7 @@
+.sirowaku{
+    border:solid 5px; border-color: green;
+    margin: 2px; padding :5px; width: 50ex;
+}
+.fl{
+    text-align: left;display: flex;
+}

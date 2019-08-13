@@ -1,0 +1,44 @@
+﻿.keter{margin:2px;
+	border:2px solid rgb(255,50,0);
+	text-align:center;
+	padding:5px;}
+
+.uculid{margin:2px;border:2px solid rgb(255,255,0);
+	padding:5px;text-align:center;color:rgb(0,0,50);}
+
+.safe{margin:2px;border:2px solid rgb(0,255,100);
+	padding:5px;text-align:center;}
+
+.thaumiel{padding:5px;margin:2px;border:2px solid rgb(200,0,255);text-align:center;}
+.joke{padding:5px;margin:2px;border:2px solid rgb(255,117,0);text-align:center;}
+.Safe{background:rgb(0,255,100);text-align:center;}
+.euculid{background:rgb(255,255,0);text-align:center;color:rgb(0,0,50);}
+.Keter{background:rgb(255,50,0);text-align:center;}
+.Thaumiel{margin:2px;border:2px solid rgb(200,0,255);text-align:center;height:50%;width:50%;}
+.Joke{margin:2px;border:2px solid rgb(255,117,0);text-align:center;height:50%;width:50%;}
+.scp{color:rgb(50,50,50);border:solid black 5px;background:white;}
+.ob{color:black;text-align:center;}
+.holo{color:rgb(0,200,230);}
+.hololive{text-align:left;font-size:20px;width:79%; border:groove black 5px;
+	  background-image:url("https://pbs.twimg.com/media/D-ZP1WeU0AUUF91.jpg");background-repeat:no-repeat;
+	  background-color:white;background-position:center center;}
+.logo{overflow:hidden; padding:5px;margin:25px;border:2px solid rgb(0,200,230);background:white; border-radius:24px;}
+.logo:hover{overflow:hidden; padding:5px;margin:25px;border:4px groove rgb(0,200,230);background:white; border-radius:24px;}
+.logoscp{overflow:hidden; padding:5px;margin:25px;border:2px hidden rgb(0,200,230);background:white;border-radius:200px;}
+.logoscp:hover{overflow:hidden; padding:5px;margin:25px;border:2px groove rgb(0,0,0); border-radius:200px;}
+.txth{border:none; border-radius:24px;background:white;width:40%}
+.txtp{font-size:15px;text-align:center; padding-top:1px;padding-bottom:1px;border:none; border-radius:24px;background:white;width:35%;}
+.left{text-align:left;}
+.right{text-align:right;}
+.fllf{float:left;}
+.flri{float:right;}
+.waku{border:solid black 2px;background:white;border-radius:5px;}
+body{background:rgb(0,100,120);}
+.header{background:rgb(70,160,40);padding:75px;border:solid white 2px;  }
+.zeno{float:left;border:double rgb(220,0,0) 10px;background:white;border-radius:5px;margin:5px;}
+.zeno:hover{float:left;border:solid rgb(0,200,255) 10px;background:white;border-radius:5px;margin:10px;}
+.zeno2{float:left;border:solid rgb(220,0,0) 10px;background:white;border-radius:5px;margin:5px;}
+.zeno2:hover{float:left;border:solid rgb(240,240,0) 10px;background:white;border-radius:5px;margin:10px;}
+
+.zeno2i{float:left;border:solid rgb(220,0,0) 10px;background:white;border-radius:5px;margin:5px;}
+.zeno2i:hover{float:left;border:solid rgb(0,255,255) 10px;background:white;border-radius:5px;margin:10px;}

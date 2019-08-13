@@ -1,0 +1,103 @@
+<!DOCTYPE HTML>
+<HTML>
+    <head>
+        <meta charset="utf-8"> 
+        <link rel="stylesheet" href="./obentuyo.css">
+    </head>
+    <body>
+    
+        <article>
+            <center>
+            <h1>C#</h1>
+            </center>
+        <div class="fl">
+            <div class="fl">
+            <div class="sirowaku">
+            <h5>変数　型 名前=値;</h5>
+            <h5>型</h5>
+            <pre>
+            整数 int
+            少数 float 少数を代入するときはfを後ろにつける
+            文字 char
+            文字列 string 「数値」+「文字列」は「文字列」として扱う
+            真偽値 bool</pre>
+        </div>
+            </div><div class="fl">
+            <div class="sirowaku">
+            <h5>条件分岐</h5>
+            <pre>
+                if(条件){
+                    //コメント　条件が真のとき実行
+                }else if(条件){
+
+                }else{
+
+                }
+            </pre></div>
+        </div><div class="fl">
+            <div class="sirowaku">
+            <h5>繰り返し</h5>
+            <pre>
+                for(初期化;条件;変化){
+                    //真の間繰り返す
+                }
+            </pre></div>      
+        </div>
+    </div>
+    <br>
+    <div class="fl">
+        <div class="fl">          
+            <div class="sirowaku">  
+            <h5>配列</h5>
+            <pre>
+                型[] 変数名=new 型[要素数];
+                型[] 変数名={要素,要素,要素,要素};
+                変数名.Length 配列数を表示する;
+            </pre></div>
+        </div><div class="fl">
+            <div class="sirowaku">
+            <h5>メゾット</h5>
+            <pre>
+                引数と返り値のないメゾット
+                    作り方　void メゾット名(){処理};
+                    呼び出し　メゾット名();
+                引数のあるメゾット　
+                    void メゾット名(型　引数){処理};
+                    メゾット名(引数値);
+                引数と返り値のあるメゾット　　
+                    返り値の型　メゾット名(型　引数,型　引数){
+                        処理
+                        return 返り値;
+                        };
+                    メゾット名(引数値、引数値);    
+            </pre></div>
+        </div><div class="fl">
+            <div class="sirowaku">
+            <h5>クラス・インスタンス</h5>
+            <pre>
+                クラスの中で使う変数　　　メンバ変数
+                　　　　　　　　メゾット　メンバメゾット
+
+                public class クラス名{
+                    処理
+                }
+                //クラスの作成　
+
+                クラス名　インスタンス=new クラス名();
+                //インスタンスの作成
+
+                インスタンス.メンバメゾット(引数);
+                //インスタンス内のメゾットを呼び出す
+
+                アクセス修飾子
+                public　どこからでもアクセスできる
+                protected　同じクラスとサブクラスからアクセスできる
+                private　同じクラスからのみアクセスできる
+            </pre>
+        </div>
+        </div>
+    </div>
+            </article>
+        
+    </body>
+</HTML>

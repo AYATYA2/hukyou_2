@@ -1,0 +1,25 @@
+header{display:block;background-color:rgb(150,0,0);text-align:center;}
+article{display:grid;width:100%;
+	grid-template-areas:"a" "b"  "c" "d";}
+body{background-color:rgb(50,50,50);
+		cursor: url='d.CUR';}
+.keter{grid-area:a;background-color:rgb(180,0,0);border:solid rgb(50,50,50) 0.5em;}
+.euculid{grid-area:b;background-color:rgb(200,200,0);border:solid rgb(50,50,50) 0.5em;}
+.safe{grid-area:c;background-color:rgb(50,200,180);border:solid rgb(50,50,50) 0.5em;}
+.thoumiel{grid-area:d;background-color:rgb(150,0,180);border:solid rgb(50,50,50) 0.5em;}
+
+.SCP{display:flex;text-align:center;width:90%;}
+li.SCP{list-style-type:none;
+	background-color:rgb(200,200,200);
+	display:flex;
+	padding:1em;margin:1ex;
+	border:solid black 1ex;
+	border-radius:50em;font-size:120%;}
+.scp{width:90%;}
+li.scp{border:solid black 0.5em;
+	text-align:center;
+	list-style-type:none;
+	margin:0.5em;padding:0.5em;
+	background-color:rgb(200,200,200);
+	}
+#inami{position: absolute;top: 0px;left:0px ;}	
